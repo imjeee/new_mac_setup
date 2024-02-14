@@ -43,6 +43,9 @@ brew install --cask visual-studio-code
 # Install Sublime Text
 echo "Installing Sublime Text..."
 brew install --cask sublime-text
+# Install Postman
+echo "Installing Postman..."
+brew install --cask postman
 
 # Install web browsers
 echo "Installing web browsers..."
@@ -70,6 +73,18 @@ echo "Installing system utilities..."
 # Install Docker
 echo "Installing Docker..."
 brew install --cask docker
+
+# Install communication tools
+echo "Installing communication tools..."
+# Install Zoom
+echo "Installing Zoom..."
+brew install --cask zoom
+# Install Slack
+echo "Installing Slack..."
+brew install --cask slack
+# Install Discord
+echo "Installing Discord..."
+brew install --cask discord
 
 # Install entertainment tools
 echo "Installing entertainment tools..."
