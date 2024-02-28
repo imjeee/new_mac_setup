@@ -86,6 +86,12 @@ brew install --cask slack
 echo "Installing Discord..."
 brew install --cask discord
 
+# Install command-line tools
+echo "Installing command-line tools..."
+# Install thefuck
+echo "Installing thefuck..."
+brew install thefuck
+
 # Install entertainment tools
 echo "Installing entertainment tools..."
 # Install qBittorrent
